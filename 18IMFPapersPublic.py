@@ -1,6 +1,6 @@
 ##########################################################
 ## Program to fetch IMF Working Papers                  ##
-## And feed summary and other details in a file         ##
+## And feed paper details and summary in a file         ##
 ##########################################################
 
 ##Importing relevant libraries
