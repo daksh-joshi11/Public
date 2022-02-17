@@ -146,7 +146,7 @@ with open("IMF Papers and Summary.txt", "w+") as IMFfile:
             IMFfile.write("******** End of Program ********")
             print("File feed successful.\n\n")
 
-### Future: Multi page functionality ###
+### Future: Multi search-page functionality ###
 
 ### End Browser selenium session ###
 time.sleep(10)
